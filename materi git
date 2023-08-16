@@ -7,16 +7,17 @@ GIT adalah program yang digunakan sebagai
 2. GIT INIT
 "git init" adalah perintah git untuk inisialisasi sebuah folder menjadi repository git.
 
-
 3. GIT CONFIG
 git config adalah perintah git untuk konfigurasi git seperti username dan email. Untuk melihat semua konfigurasi git gunakan perintah "git-config --list"
-
 
 4. GIT STATUS
 "git status" adalah perintah untuk melihat status file pada repository yaitu untracked, staging area, modified.
 
+5. GIT ADD
+git add adalah perintah untuk memasukkan file ke staging area untuk siap dicommit.
 
-
+6. GIT COMMIT
+git commit adalah perintah untuk mencatat perubahan yang dilakukan pada file di staging area.
 
 
 
