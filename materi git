@@ -19,5 +19,9 @@ git add adalah perintah untuk memasukkan file ke staging area untuk siap dicommi
 6. GIT COMMIT
 git commit adalah perintah untuk mencatat perubahan yang dilakukan pada file di staging area.
 
+7. GIT REMOTE
+git remote adalah perintah untuk interaksi client dengan server layanan git
 
+8. GIT PUSH
+"git push" adalah perintah untuk melakukan commit ke server layanan git
 
