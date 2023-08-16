@@ -7,52 +7,6 @@ GIT adalah program yang digunakan sebagai
 2. GIT INIT
 "git init" adalah perintah git untuk inisialisasi sebuah folder menjadi repository git.
 
-3. GIT CONFIG
-git config adalah perintah git untuk konfigurasi git seperti username dan email. Untuk melihat semua konfigurasi git gunakan perintah "git-config --list"
-
-
-4. GIT STATUS
-"git status" adalah perintah untuk melihat status file pada repository yaitu untracked, staging area, modified.
-
-5. GIT ADD
-
-git add adalah perintah untuk memasukkan file ke staging area untuk siap dicommit.
-
-6. GIT COMMIT
-git commit adalah perintah untuk mencatat perubahan yang dilakukan pada file di staging area.
-
-7. GIT REMOTE
-git remote adalah perintah untuk interaksi client dengan server layanan git
-
-8. GIT PUSH
-"git push" adalah perintah untuk melakukan commit ke server layanan git
-
-9. GIT CLONE
-git clone adalah perintah untuk menyalin repositoy dari server layanan git
-
-10. GIT PULL
-git pull adalah perintah untuk mengambil commit dari server JIKA ADA PERUBAHAN di server oleh branch lain.
-
-11. GIT LOG
-"git log" adalah perintah untuk melihat riwayat commit dalam repository.
-
-12. GIT BRANCH
-branch artinya cabang yang mana adalah salinan dari repo. Bermanfaat untuk Parallel Development dan manajemen pengembangan seperti saat mengembangkan fitur baru.
-
-git branch : melihat semua branch (local)
-git branch --all : melihat semua branch (public)
-git branch nama_branch : membuat branch baru
-git checkout nama_branch : untuk berpindah branch
-git branch -d nama_branch : untuk menghapus branch
-
-13. GIT MERGE
-git merge nama_branch : untuk menggabungkan commit dari 2 branch.
-Untuk melakukan merge harus dipastikan tidak ada file yang belum di commit
-
-
-
-
-
 
 
 
