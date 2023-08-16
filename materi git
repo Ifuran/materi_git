@@ -25,3 +25,9 @@ git remote adalah perintah untuk interaksi client dengan server layanan git
 8. GIT PUSH
 "git push" adalah perintah untuk melakukan commit ke server layanan git
 
+9. GIT CLONE
+git clone adalah perintah untuk menyalin repositoy dari server layanan git
+
+10. GIT PULL
+git pull adalah perintah untuk mengambil commit dari server JIKA ADA PERUBAHAN di server oleh branch lain.
+
